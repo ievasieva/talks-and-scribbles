@@ -2,16 +2,16 @@
 
 I have gathered here a selection of some stuff I have been working on in the past years, that can be found somewhere online and offline. 
 
-#Ecopsychology, 
+# Ecopsychology, 
 
-#Placemaking and all things urban
+# Placemaking and all things urban
 
 Watch my Pecha Kucha video on paradoxes of placemaking and how we can approach them when designing public spaces or any "placial" developments and interventions. 
 [Placemaking Week 2017](https://vimeo.com/238567658#t=10200s)
 
 My lovel partner's speech. 
 
-#Creative Industries and Business Models 
+# Creative Industries and Business Models 
 
 Article in Dutch Designer's Magazine 2019
 
