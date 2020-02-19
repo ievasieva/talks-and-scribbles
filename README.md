@@ -1,12 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio of research and speeches
 
-You can use the [editor on GitHub](https://github.com/ievasieva/website-links/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have gathered here a selection of some stuff I have been working on in the past years, that can be found somewhere online and offline. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Ecopsychology, 
+
+#Placemaking and all things urban
+
+Watch my Pecha Kucha video on paradoxes of placemaking and how we can approach them when designing public spaces or any "placial" developments and interventions. 
+[Placemaking Week 2017](https://vimeo.com/238567658#t=10200s)
+
+My lovel partner's speech. 
+
+#Creative Industries and Business Models 
+
+Article in Dutch Designer's Magazine 2019
+
+Article in Dutch Designer's Magazine 2018 
+
+Article in Harvard Business Review on Open Innovation 
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +39,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ievasieva/website-links/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
